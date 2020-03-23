@@ -63,4 +63,3 @@ for(i=0;i<n;i++)
         i = j;
     }
     return 0;
-}
